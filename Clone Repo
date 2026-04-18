@@ -1,0 +1,6 @@
+git clone https://github.com/<peter-0015>/global-stem-connect.git
+cd global-stem-connect
+mkdir -p frontend/src/pages
+mkdir -p backend/routes
+mkdir -p database
+mkdir -p .github/workflows
